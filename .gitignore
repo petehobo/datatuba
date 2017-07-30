@@ -1,0 +1,4 @@
+*.sublime-*
+config/keys.txt
+src/scenit/config/properties.js
+src/scenit/platforms/
